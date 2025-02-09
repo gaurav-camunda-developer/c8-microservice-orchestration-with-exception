@@ -12,9 +12,9 @@ import io.camunda.zeebe.client.impl.oauth.OAuthCredentialsProviderBuilder;
 
 public class PaymentProcess {
 
-	private static final String ZEEBE_ADDRESS = "bb0a90ce-ec78-4d96-a50d-b55de1b589f2.syd-1.zeebe.camunda.io:443";
-	private static final String ZEEBE_CLIENT_ID = "wQb~SVdkTymoQ5oTY-v1nR1wYwy-7VQO";
-	private static final String ZEEBE_CLIENT_SECRET = "3VYjCR5dUFRO8ksiSfAUdiKosMK1ljOl1JlvVXiKb4YLFMEOA-Lh7AP-SeNhs3zo";
+	private static final String ZEEBE_ADDRESS = "";
+	private static final String ZEEBE_CLIENT_ID = "";
+	private static final String ZEEBE_CLIENT_SECRET = "";
 	private static final String ZEEBE_AUTHORIZATION_SERVER_URL = "https://login.cloud.camunda.io/oauth/token";
 	private static final String ZEEBE_TOKEN_AUDIENCE = "zeebe.camunda.io";
 
